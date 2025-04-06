@@ -1,5 +1,3 @@
-# Uber-Analysis
-Uploaded my first Power BI project – an Uber ride analysis dashboard. A guided project that kickstarted my data visualization journey!
 #🚕 Uber Data Analysis – Power BI Dashboard
 This was my first Power BI project, created as part of a guided learning exercise to explore the capabilities of data visualization and dashboarding. The dataset represents Uber rides, and the objective was to derive insights on ride frequency, popular locations, peak hours, and more.
 
